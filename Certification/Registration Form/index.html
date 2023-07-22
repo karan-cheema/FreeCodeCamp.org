@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+<body>
+<h1 id="title">freeCodeCamp Survey Form</h1>
+<p id="description">Thank you for taking the time to help us improve the platform</p>
+<form id="survey-form">
+  <label id="name-label" for="name">Name</label>
+  <input id="name" type="text" placeholder="Enter your name" required></input>
+  <label id="email-label" for="email">Email</label>
+  <input id="email" type="email" placeholder="Enter your email" required></input>
+  <label id="number-label" for="number">Number</label>
+  <input id="number" type="number" min="18" max="75" placeholder="Enter your age" required>
+  <label id="dropdown-label" for="dropdown">What do you do?</label>
+  <select id="dropdown" name="job" required>
+    <option disabled selected value required>Choose one option</option>
+    <option value="Student">Student</option>
+    <option value="Fresher">Fresher</option>
+    <option value="Early">2 years</option>
+    <option value="Seasoned">5 years</option>
+    <option value="Mature">10+ years</option>
+  </select>
+  <p>What is your gender?</p>
+  <label>
+    <input name="user-gender" id="gender" value="Male" type="radio">Male</input>
+    </label>
+  <label>
+    <input name="user-gender" id="gender" value="Female" type="radio">Female</input>
+  </label>
+  <label>
+    <input name="user-gender" id="Non binary" value="non-binary" type="radio">Non Binary</input>
+  </label>
+  <p>Please tell us how to improve our service</p>
+  <label><input type="checkbox" name="feedback" value="front-end">Front End</label>
+  <label><input type="checkbox" name="feedback" value="back-end">Front End</label>
+  <label><input type="checkbox" name="feedback" value="data-science">Data Science</label>
+  <label><input type="checkbox" name="feedback" value="python">Python</label>
+  <p>Any other feedback?</p>
+  <textarea id="comment" name="comment">Please give feedback</textarea>
+  <button type="submit" id="submit">Submit</button>
+</form>
+</body>
+</html>
