@@ -1,13 +1,17 @@
 # Challenges 1 to 113 of Basic JavaScript
-<ol>
-  <li>Code 1</li>
-  <li>Code 2</li>
-  <li>Code 3</li>
-  <li>Code 4</li>
-  <li>Code 5</li>
-  <li>Code 6</li>
-  <li>Code 7</li>
-  <li>Code 8</li>
-  <li>Code 9</li>
-  <li>Code 10</li>
-</ol>
+- Code 1: Comment your JavaScript Code
+- Code 2: Declare JavaScript Variable
+- Code 3: Storing Values with the Assignment Operator
+- Code 4: Assigning the Value of One Variable with Another
+- Code 5: Initializing Variables with the Assignment Operator
+- Code 6: Declare String Variables
+- Code 7: Understanding Uninitialized Variables
+- Code 8: Understanding Case Sensitivity in Variables
+- Code 9: Explore differences between var and let keywords
+- Code 10: 
+- Code 11:
+- Code 12:
+- Code 13:
+- Code 14:
+- Code 15:
+- Code 16:
