@@ -1,7 +1,7 @@
 # FreeCodeCamp.org - Learn To Code
 ## Index
-- Responsive Web Design
-- JavaScript Algorithms and Data Structures
+- [Responsive Web Design](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design)
+- [JavaScript Algorithms and Data Structures](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript)
 - Front-End Development Libraries
 - Data Visualization
 - Relation Database
