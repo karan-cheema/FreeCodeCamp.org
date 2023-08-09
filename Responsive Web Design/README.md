@@ -4,8 +4,8 @@
 - [Cafe Menu](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Cafe%20Menu)
 - [Colored Markers](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Colored%20Markers)
 - [Registration Form](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Registration%20Form)
-- Rothko Painting
-- Photo Gallery
+- [Rothko Painting](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Rothko%20Painting)
+- [Photo Gallery](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Photo%20Gallery)
 - [Nutrition Label](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Nutrition%20Label)
 - [Quiz](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Quiz)
 - [Balance Sheet](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Blalance%20Sheet)
