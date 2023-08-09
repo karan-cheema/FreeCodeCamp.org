@@ -4,11 +4,11 @@
 - [Cafe Menu](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Cafe%20Menu)
 - [Colored Markers](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Colored%20Markers)
 - [Registration Form](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Registration%20Form)
-- [Rothko Painting]()
+- Rothko Painting
 - Photo Gallery
-- Nutrition Label
-- Quiz
-- Balance Sheet
+- [Nutrition Label](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Nutrition%20Label)
+- [Quiz](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Quiz)
+- [Balance Sheet](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Blalance%20Sheet)
 - Picasso Painting
 - Piano
 - City Skyline
@@ -17,8 +17,8 @@
 - Penguin
 
 ## Certification Projects
-- Survey Form
-- Tribute Page
+- [Survey Form](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Certification/Registration%20Form)
+- [Tribute Page](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Tribute%20Page)
 - Technical Documentation Page
 - Product Landing Page
 - Personal Portfolio Webpage
