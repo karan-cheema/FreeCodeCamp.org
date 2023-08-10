@@ -10,7 +10,7 @@
 - [Quiz](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Quiz)
 - [Balance Sheet](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Blalance%20Sheet)
 - [Picasso Painting](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Picasso%20Painting)
-- Piano
+- [Piano](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Piano)
 - City Skyline
 - Magazine
 - Ferris Wheel
