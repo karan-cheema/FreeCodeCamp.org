@@ -13,7 +13,7 @@
 - [Piano](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Piano)
 - [City Skyline](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/City%20Skyline)
 - [Magazine](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Magazine)
-- Ferris Wheel
+- [Ferris Wheel](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Ferris%20Wheel)
 - Penguin
 
 ## Certification Projects
