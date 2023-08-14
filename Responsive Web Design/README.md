@@ -12,7 +12,7 @@
 - [Picasso Painting](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Picasso%20Painting)
 - [Piano](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Piano)
 - [City Skyline](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/City%20Skyline)
-- Magazine
+- [Magazine](https://github.com/karan-cheema/FreeCodeCamp.org/tree/main/Responsive%20Web%20Design/Magazine)
 - Ferris Wheel
 - Penguin
 
