@@ -8,17 +8,17 @@
 - [Initializing Variables with the Assignment Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Initializing%20Variables%20with%20the%20Assignment%20Operator.js)
 - [Declare String Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Declare%20String%20Variables.js)
 - [Understanding Uninitialized Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understanding%20Uninitialized%20Variables.js)
-- Understanding Case Sensitivity in Variables
-- Explore Differences Between the var and let Keywords
-- Declare a Read-Only Variable with the const Keyword
-- Add Two Numbers with JavaScript
-- Subtract One Number from Another with JavaScript
-- Multiply Two Numbers with JavaScript
-- Divide One Number by Another with JavaScript
-- Increment a Number with JavaScript
-- Decrement a Number with JavaScript
-- Create Decimal Numbers with JavaScript
-- Multiply Two Decimals with JavaScript
-- Divide One Decimal by Another with JavaScript
-- Finding a Remainder in JavaScript
-- Compound Assignment With Augmented Addition
+- [Understanding Case Sensitivity in Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understanding%20Case%20Sensitivity%20in%20Variables.js)
+- [Explore Differences Between the var and let Keywords](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Explore%20Differences%20Between%20the%20var%20and%20let%20Keywords.js)
+- [Declare a Read-Only Variable with the const Keyword](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Declare%20a%20Read-Only%20Variable%20with%20the%20const%20Keyword.js)
+- [Add Two Numbers with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Add%20Two%20Numbers%20with%20JavaScript.js)
+- [Subtract One Number from Another with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Subtract%20One%20Number%20from%20Another%20with%20JavaScript.js)
+- [Multiply Two Numbers with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Multiply%20Two%20Numbers%20with%20JavaScript.js)
+- [Divide One Number by Another with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Divide%20One%20Number%20by%20Another%20with%20JavaScript.js)
+- [Increment a Number with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Increment%20a%20Number%20with%20JavaScript.js)
+- [Decrement a Number with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Decrement%20a%20Number%20with%20JavaScript.js)
+- [Create Decimal Numbers with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Create%20Decimal%20Numbers%20with%20JavaScript.js)
+- [Multiply Two Decimals with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Multiply%20Two%20Numbers%20with%20JavaScript.js)
+- [Divide One Decimal by Another with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Divide%20One%20Decimal%20by%20Another%20with%20JavaScript.js)
+- [Finding a Remainder in JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Finding%20a%20Remainder%20in%20JavaScript.js)
+- [Compound Assignment With Augmented Addition](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Compound%20Assignment%20With%20Augmented%20Addition.js)
