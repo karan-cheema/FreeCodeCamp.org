@@ -2,7 +2,7 @@
 
 ## Exercises
 - [Comment Your JavaScript Code](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/comment.js)
-- Declare JavaScript Variables
+- [Declare JavaScript Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Declare%20JavaScript%20Variables.js)
 - Storing Values with the Assignment Operator
 - Assigning the Value of One Variable to Another
 - Initializing Variables with the Assignment Operator
