@@ -25,7 +25,7 @@
 - [Compound Assignment With Augmented Multiplication](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Compound%20Assignment%20With%20Augmented%20Multiplication.js)
 - [Compound Assignment With Augmented Division](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Compound%20Assignment%20With%20Augmented%20Division.js)
 - [Escaping Literal Quotes in Strings](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Escaping%20Literal%20Quotes%20in%20Strings.js)
-- [Quoting Strings with Single Quotes]()
+- [Quoting Strings with Single Quotes](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Quoting%20Strings%20with%20Single%20Quotes.js)
 - [Escape Sequences in Strings]()
 - [Concatenating Strings with Plus Operator]()
 - [Concatenating Strings with the Plus Equals Operator]()
