@@ -38,7 +38,7 @@
 - [Use Bracket Notation to Find the Last Character in a String](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Bracket%20Notation%20to%20Find%20the%20Last%20Character%20in%20a%20String.js)
 - [Use Bracket Notation to Find the Nth-to-Last Character in a String](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Bracket%20Notation%20to%20Find%20the%20Nth-to-Last%20Character%20in%20a%20String.js)
 - [Word Blanks](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Word%20Blanks.js)
-- Store Multiple Values in one Variable using JavaScript Arrays
+- [Store Multiple Values in one Variable using JavaScript Arrays](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Store%20Multiple%20Values%20in%20one%20Variable%20using%20JavaScript%20Arrays.js)
 - Nest one Array within Another Array
 - Access Array Data with Indexes
 - Modify Array Data With Indexes
