@@ -36,7 +36,7 @@
 - [Understand String Immutability](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understand%20String%20Immutability.js)
 - [Use Bracket Notation to Find the Nth Character in a String](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Bracket%20Notation%20to%20Find%20the%20Nth%20Character%20in%20a%20String.js)
 - [Use Bracket Notation to Find the Last Character in a String](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Bracket%20Notation%20to%20Find%20the%20Last%20Character%20in%20a%20String.js)
-- Use Bracket Notation to Find the Nth-to-Last Character in a String
+- [Use Bracket Notation to Find the Nth-to-Last Character in a String](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Bracket%20Notation%20to%20Find%20the%20Nth-to-Last%20Character%20in%20a%20String.js)
 - Word Blanks
 - Store Multiple Values in one Variable using JavaScript Arrays
 - Nest one Array within Another Array
