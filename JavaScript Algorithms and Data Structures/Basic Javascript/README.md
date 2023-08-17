@@ -51,7 +51,7 @@
 - [Write Reusable JavaScript with Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Write%20Reusable%20JavaScript%20with%20Functions.js)
 - [Passing Values to Functions with Arguments](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Passing%20Values%20to%20Functions%20with%20Arguments.js)
 - [Return a Value from a Function with Return](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Return%20a%20Value%20from%20a%20Function%20with%20Return.js)
-- Global Scope and Functions
+- [Global Scope and Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Global%20Scope%20and%20Functions.js)
 - Local Scope and Functions
 - Global vs. Local Scope in Functions
 - Understanding Undefined Value returned from a Function
