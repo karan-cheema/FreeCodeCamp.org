@@ -41,13 +41,13 @@
 - [Store Multiple Values in one Variable using JavaScript Arrays](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Store%20Multiple%20Values%20in%20one%20Variable%20using%20JavaScript%20Arrays.js)
 - [Nest one Array within Another Array](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Nest%20one%20Array%20within%20Another%20Array.js)
 - [Access Array Data with Indexes](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Access%20Array%20Data%20with%20Indexes.js)
-- Modify Array Data With Indexes
-- Access Multi-Dimensional Arrays With Indexes
-- Manipulate Arrays With push Method
-- Manipulate Arrays With pop Method
-- Manipulate Arrays With shift Method
-- Manipulate Arrays With unshift Method
-- Shopping List
+- [Modify Array Data With Indexes](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Modify%20Array%20Data%20With%20Indexes.js)
+- [Access Multi-Dimensional Arrays With Indexes](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Access%20Multi-Dimensional%20Arrays%20With%20Indexes.js)
+- [Manipulate Arrays With push Method](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Manipulate%20Arrays%20With%20push%20Method.js)
+- [Manipulate Arrays With pop Method](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Manipulate%20Arrays%20With%20pop%20Method.js)
+- [Manipulate Arrays With shift Method](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Manipulate%20Arrays%20With%20shift%20Method.js)
+- [Manipulate Arrays With unshift Method](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Manipulate%20Arrays%20With%20unshift%20Method.js)
+- [Shopping List](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Shopping%20List.js)
 - Write Reusable JavaScript with Functions
 - Passing Values to Functions with Arguments
 - Return a Value from a Function with Return
