@@ -53,7 +53,7 @@
 - [Return a Value from a Function with Return](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Return%20a%20Value%20from%20a%20Function%20with%20Return.js)
 - [Global Scope and Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Global%20Scope%20and%20Functions.js)
 - [Local Scope and Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Local%20Scope%20and%20Functions.js)
-- Global vs. Local Scope in Functions
+- [Global vs. Local Scope in Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Global%20vs.%20Local%20Scope%20in%20Functions.js)
 - Understanding Undefined Value returned from a Function
 - Assignment with a Returned Value
 - Stand in Line
