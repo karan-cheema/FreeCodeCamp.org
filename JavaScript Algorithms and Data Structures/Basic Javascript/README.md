@@ -54,9 +54,9 @@
 - [Global Scope and Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Global%20Scope%20and%20Functions.js)
 - [Local Scope and Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Local%20Scope%20and%20Functions.js)
 - [Global vs. Local Scope in Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Global%20vs.%20Local%20Scope%20in%20Functions.js)
-- Understanding Undefined Value returned from a Function
-- Assignment with a Returned Value
-- Stand in Line
+- [Understanding Undefined Value returned from a Function](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understanding%20Undefined%20Value%20returned%20from%20a%20Function.js)
+- [Assignment with a Returned Value](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Assignment%20with%20a%20Returned%20Value.js)
+- [Stand in Line](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Stand%20in%20Line.js)
 - Understanding Boolean Values
 - Use Conditional Logic with If Statements
 - Comparison with the Equality Operator
