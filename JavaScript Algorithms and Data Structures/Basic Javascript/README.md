@@ -57,18 +57,18 @@
 - [Understanding Undefined Value returned from a Function](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understanding%20Undefined%20Value%20returned%20from%20a%20Function.js)
 - [Assignment with a Returned Value](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Assignment%20with%20a%20Returned%20Value.js)
 - [Stand in Line](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Stand%20in%20Line.js)
-- Understanding Boolean Values
-- Use Conditional Logic with If Statements
-- Comparison with the Equality Operator
-- Comparison with the Strict Equality Operator
-- Practice comparing different values
-- Comparison with the Inequality Operator
-- Comparison with the Strict Inequality Operator
-- Comparison with the Greater Than Operator
-- Comparison with the Greater Than Or Equal To Operator
-- Comparison with the Less Than Operator
-- Comparison with the Less Than Or Equal To Operator
-- Comparisons with the Logical And Operator
+- [Understanding Boolean Values](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Understanding%20Boolean%20Values.js)
+- [Use Conditional Logic with If Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Use%20Conditional%20Logic%20with%20If%20Statements.js)
+- [Comparison with the Equality Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Equality%20Operator.js)
+- [Comparison with the Strict Equality Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Strict%20Equality%20Operator.js)
+- [Practice comparing different values](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Practice%20comparing%20different%20values.js)
+- [Comparison with the Inequality Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Inequality%20Operator.js)
+- [Comparison with the Strict Inequality Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Strict%20Inequality%20Operator.js)
+- [Comparison with the Greater Than Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Greater%20Than%20Operator.js)
+- [Comparison with the Greater Than Or Equal To Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Greater%20Than%20Or%20Equal%20To%20Operator.js)
+- [Comparison with the Less Than Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Less%20Than%20Operator.js)
+- [Comparison with the Less Than Or Equal To Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Less%20Than%20Or%20Equal%20To%20Operator.js)
+- [Comparisons with the Logical And Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparisons%20with%20the%20Logical%20And%20Operator.js)
 - Comparisons with the Logical Or Operator
 - Introducing Else Statements
 - Introducing Else If Statements
