@@ -69,13 +69,13 @@
 - [Comparison with the Less Than Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Less%20Than%20Operator.js)
 - [Comparison with the Less Than Or Equal To Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparison%20with%20the%20Less%20Than%20Or%20Equal%20To%20Operator.js)
 - [Comparisons with the Logical And Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparisons%20with%20the%20Logical%20And%20Operator.js)
-- Comparisons with the Logical Or Operator
-- Introducing Else Statements
-- Introducing Else If Statements
-- Logical Order in If Else Statements
-- Chaining If Else Statements
-- Golf Code
-- Selecting from Many Options with Switch Statements
+- [Comparisons with the Logical Or Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Comparisons%20with%20the%20Logical%20Or%20Operator.js)
+- [Introducing Else Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Introducing%20Else%20Statements.js)
+- [Introducing Else If Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Introducing%20Else%20If%20Statements.js)
+- [Logical Order in If Else Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Logical%20Order%20in%20If%20Else%20Statements.js)
+- [Chaining If Else Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Chaining%20If%20Else%20Statements.js)
+- [Golf Code](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Golf%20Code.js)
+- [Selecting from Many Options with Switch Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Selecting%20from%20Many%20Options%20with%20Switch%20Statements.js)
 - Adding a Default Option in Switch Statements
 - Multiple Identical Options in Switch Statements
 - Replacing If Else Chains with Switch
