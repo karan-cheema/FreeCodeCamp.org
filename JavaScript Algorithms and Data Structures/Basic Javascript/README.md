@@ -76,8 +76,8 @@
 - [Chaining If Else Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Chaining%20If%20Else%20Statements.js)
 - [Golf Code](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Golf%20Code.js)
 - [Selecting from Many Options with Switch Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Selecting%20from%20Many%20Options%20with%20Switch%20Statements.js)
-- Adding a Default Option in Switch Statements
-- Multiple Identical Options in Switch Statements
+- [Adding a Default Option in Switch Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Selecting%20from%20Many%20Options%20with%20Switch%20Statements.js)
+- [Multiple Identical Options in Switch Statements](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Multiple%20Identical%20Options%20in%20Switch%20Statements.js)
 - Replacing If Else Chains with Switch
 - Returning Boolean Values from Functions
 - Return Early Pattern for Functions
