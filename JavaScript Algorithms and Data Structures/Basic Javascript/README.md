@@ -82,15 +82,15 @@
 - [Returning Boolean Values from Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Returning%20Boolean%20Values%20from%20Functions.js)
 - [Return Early Pattern for Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Return%20Early%20Pattern%20for%20Functions.js)
 - [Counting Cards](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Counting%20Cards.js)
-- Build JavaScript Objects
-- Accessing Object Properties with Dot Notation
-- Accessing Object Properties with Bracket Notation
-- Accessing Object Properties with Variables
-- Updating Object Properties
-- Add New Properties to a JavaScript Object
-- Delete Properties from a JavaScript Object
-- Using Objects for Lookups
-- Testing Objects for Properties
+- [Build JavaScript Objects](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Build%20JavaScript%20Objects.js)
+- [Accessing Object Properties with Dot Notation](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Object%20Properties%20with%20Dot%20Notation.js)
+- [Accessing Object Properties with Bracket Notation](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Object%20Properties%20with%20Bracket%20Notation.js)
+- [Accessing Object Properties with Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Object%20Properties%20with%20Variables.js)
+- [Updating Object Properties](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Updating%20Object%20Properties.js)
+- [Add New Properties to a JavaScript Object](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Add%20New%20Properties%20to%20a%20JavaScript%20Object.js)
+- [Delete Properties from a JavaScript Object](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Delete%20Properties%20from%20a%20JavaScript%20Object.js)
+- [Using Objects for Lookups](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Using%20Objects%20for%20Lookups.js)
+- [Testing Objects for Properties]()
 - Manipulating Complex Objects
 - Accessing Nested Objects
 - Accessing Nested Arrays
