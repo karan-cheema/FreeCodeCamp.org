@@ -81,7 +81,7 @@
 - [Replacing If Else Chains with Switch](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Replacing%20If%20Else%20Chains%20with%20Switch.js)
 - [Returning Boolean Values from Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Returning%20Boolean%20Values%20from%20Functions.js)
 - [Return Early Pattern for Functions](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Return%20Early%20Pattern%20for%20Functions.js)
-- Counting Cards
+- [Counting Cards](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Counting%20Cards.js)
 - Build JavaScript Objects
 - Accessing Object Properties with Dot Notation
 - Accessing Object Properties with Bracket Notation
