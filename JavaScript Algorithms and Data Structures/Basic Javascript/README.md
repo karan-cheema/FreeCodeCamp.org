@@ -95,7 +95,7 @@
 - [Accessing Nested Objects](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Testing%20Objects%20for%20Properties.js)
 - [Accessing Nested Arrays](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Nested%20Arrays.js)
 - [Record Collection](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Record%20Collection.js)
-- Iterate with JavaScript While Loops
+- [Iterate with JavaScript While Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Record%20Collection.js)
 - Iterate with JavaScript For Loops
 - Iterate Odd Numbers With a For Loop
 - Count Backwards With a For Loop
