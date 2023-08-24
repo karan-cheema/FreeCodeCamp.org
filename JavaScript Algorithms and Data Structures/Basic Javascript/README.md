@@ -91,10 +91,10 @@
 - [Delete Properties from a JavaScript Object](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Delete%20Properties%20from%20a%20JavaScript%20Object.js)
 - [Using Objects for Lookups](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Using%20Objects%20for%20Lookups.js)
 - [Testing Objects for Properties](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Testing%20Objects%20for%20Properties.js)
-- Manipulating Complex Objects
-- Accessing Nested Objects
-- Accessing Nested Arrays
-- Record Collection
+- [Manipulating Complex Objects](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Testing%20Objects%20for%20Properties.js)
+- [Accessing Nested Objects](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Testing%20Objects%20for%20Properties.js)
+- [Accessing Nested Arrays](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Nested%20Arrays.js)
+- [Record Collection](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Record%20Collection.js)
 - Iterate with JavaScript While Loops
 - Iterate with JavaScript For Loops
 - Iterate Odd Numbers With a For Loop
