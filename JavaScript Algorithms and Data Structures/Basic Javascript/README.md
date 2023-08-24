@@ -90,7 +90,7 @@
 - [Add New Properties to a JavaScript Object](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Add%20New%20Properties%20to%20a%20JavaScript%20Object.js)
 - [Delete Properties from a JavaScript Object](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Delete%20Properties%20from%20a%20JavaScript%20Object.js)
 - [Using Objects for Lookups](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Using%20Objects%20for%20Lookups.js)
-- [Testing Objects for Properties]()
+- [Testing Objects for Properties](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Testing%20Objects%20for%20Properties.js)
 - Manipulating Complex Objects
 - Accessing Nested Objects
 - Accessing Nested Arrays
