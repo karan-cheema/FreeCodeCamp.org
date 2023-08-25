@@ -96,11 +96,11 @@
 - [Accessing Nested Arrays](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Accessing%20Nested%20Arrays.js)
 - [Record Collection](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Record%20Collection.js)
 - [Iterate with JavaScript While Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Record%20Collection.js)
-- Iterate with JavaScript For Loops
-- Iterate Odd Numbers With a For Loop
-- Count Backwards With a For Loop
-- Iterate Through an Array with a For Loop
-- Nesting For Loops
+- [Iterate with JavaScript For Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
+- [Iterate Odd Numbers With a For Loop](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
+- [Count Backwards With a For Loop](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
+- [Iterate Through an Array with a For Loop](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
+- [Nesting For Loops]()
 - Iterate with JavaScript Do...While Loops
 - Replace Loops using Recursion
 - Profile Lookup
