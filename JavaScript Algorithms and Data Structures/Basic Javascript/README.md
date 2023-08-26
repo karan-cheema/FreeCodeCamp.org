@@ -102,7 +102,7 @@
 - [Iterate Through an Array with a For Loop](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
 - [Nesting For Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
 - [Iterate with JavaScript Do...While Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
-- Replace Loops using Recursion
+- [Replace Loops using Recursion](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Replace%20Loops%20using%20Recursion.js)
 - Profile Lookup
 - Generate Random Fractions with JavaScript
 - Generate Random Whole Numbers with JavaScript
