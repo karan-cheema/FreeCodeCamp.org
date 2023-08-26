@@ -103,10 +103,10 @@
 - [Nesting For Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
 - [Iterate with JavaScript Do...While Loops](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Iterate%20with%20JavaScript%20For%20Loops.js)
 - [Replace Loops using Recursion](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Replace%20Loops%20using%20Recursion.js)
-- Profile Lookup
-- Generate Random Fractions with JavaScript
-- Generate Random Whole Numbers with JavaScript
-- Generate Random Whole Numbers within a Range
+- [Profile Lookup](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Profile%20Lookup.js)
+- [Generate Random Fractions with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Generate%20Random%20Fractions%20with%20JavaScript.js)
+- [Generate Random Whole Numbers with JavaScript](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Generate%20Random%20Whole%20Numbers%20with%20JavaScript.js)
+- [Generate Random Whole Numbers within a Range]()
 - Use the parseInt Function
 - Use the parseInt Function with a Radix
 - Use the Conditional (Ternary) Operator
