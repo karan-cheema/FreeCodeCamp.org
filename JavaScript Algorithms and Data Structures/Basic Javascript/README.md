@@ -1,6 +1,6 @@
 # Basic JavaScript
 
-## Exercises
+## Exercises (106/113)
 - [Comment Your JavaScript Code](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/comment.js)
 - [Declare JavaScript Variables](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Declare%20JavaScript%20Variables.js)
 - [Storing Values with the Assignment Operator](https://github.com/karan-cheema/FreeCodeCamp.org/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript/Storing%20Values%20with%20the%20Assignment%20Operator.js)
